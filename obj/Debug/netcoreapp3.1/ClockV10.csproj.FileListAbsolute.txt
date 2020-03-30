@@ -1,0 +1,11 @@
+C:\Code\OOP.1.5 - ClockV10\bin\Debug\netcoreapp3.1\ClockV10.exe
+C:\Code\OOP.1.5 - ClockV10\bin\Debug\netcoreapp3.1\ClockV10.deps.json
+C:\Code\OOP.1.5 - ClockV10\bin\Debug\netcoreapp3.1\ClockV10.runtimeconfig.json
+C:\Code\OOP.1.5 - ClockV10\bin\Debug\netcoreapp3.1\ClockV10.runtimeconfig.dev.json
+C:\Code\OOP.1.5 - ClockV10\bin\Debug\netcoreapp3.1\ClockV10.dll
+C:\Code\OOP.1.5 - ClockV10\bin\Debug\netcoreapp3.1\ClockV10.pdb
+C:\Code\OOP.1.5 - ClockV10\obj\Debug\netcoreapp3.1\ClockV10.csprojAssemblyReference.cache
+C:\Code\OOP.1.5 - ClockV10\obj\Debug\netcoreapp3.1\ClockV10.AssemblyInfoInputs.cache
+C:\Code\OOP.1.5 - ClockV10\obj\Debug\netcoreapp3.1\ClockV10.AssemblyInfo.cs
+C:\Code\OOP.1.5 - ClockV10\obj\Debug\netcoreapp3.1\ClockV10.dll
+C:\Code\OOP.1.5 - ClockV10\obj\Debug\netcoreapp3.1\ClockV10.pdb
